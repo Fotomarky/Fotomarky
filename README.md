@@ -14,7 +14,7 @@ Based in Geneva. Working globally.
 
 ## 🏡 What I'm Building
 
-### [Homestagd.ai](https://homestagd.com) — AI Virtual Staging Platform
+### [Homestagd.com](https://homestagd.com) — AI Virtual Staging Platform
 
 > Turning empty rooms into compelling spaces — automatically.
 
