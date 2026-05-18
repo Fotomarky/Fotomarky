@@ -6,7 +6,7 @@ I came up through design and marketing before going deep into engineering — an
 
 I'm drawn to products at the intersection of **AI, visual content, and automation** — places where the gap between what's technically possible and what's been built is still wide open. I build fast, iterate constantly, and think in systems.
 
-Currently building **[Homestagd.ai](https://homestagd.com)** — an AI-powered virtual staging platform that transforms how real estate professionals present properties. From empty rooms to fully staged spaces in seconds.
+Currently building **[Homestagd.com](https://homestagd.com)** — an AI-powered virtual staging platform that transforms how real estate professionals present properties. From empty rooms to fully staged spaces in seconds.
 
 Based in Geneva. Working globally.
 
